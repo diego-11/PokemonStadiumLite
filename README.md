@@ -64,11 +64,11 @@ El Pokémon con mayor **Speed** ataca primero. En caso de empate, el orden se de
 ## Capturas de pantalla
 
 <p align="center">
-    Intefaz principal
+ 
   <img src="src/capturas/captura1.png" alt="Captura 1" width="600">
-    Interfaz Carga de Pokemones
+   
   <img src="src/capturas/captura2.png" alt="Captura 2" width="600">
-    Intefaz de combate 
+ 
   <img src="src/capturas/captura3.png" alt="Captura 3" width="600">
 </p>
 
