@@ -1,0 +1,15 @@
+# Carpetas generadas por el compilador
+out/
+build/
+target/
+
+# Archivos de IntelliJ IDEA (se regeneran automáticamente)
+.idea/
+*.iml
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
